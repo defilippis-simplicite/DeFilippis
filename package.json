@@ -1,0 +1,14 @@
+{
+    "date": "Fri Feb 26 14:43:35 UTC 2021",
+    "name": "DeFilippis",
+    "format": "xml",
+    "description": "",
+    "files": ["DeFilippis.xml"],
+    "repository": {"origin": {
+        "password": "!Mineral21",
+        "uri": "https://github.com/defilippis-simplicite/DeFilippis",
+        "username": "defilippis-simplicite"
+    }},
+    "version": "0.1",
+    "dependencies": {"Simplicite": "4.0"}
+}
